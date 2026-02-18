@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VitalsForge",
+  "description": "Critical distress response system with real-time biometric and geolocation tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
